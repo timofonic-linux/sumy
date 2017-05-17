@@ -73,5 +73,5 @@ c84c9d7002ef848635fadc6e84e437cf  nvidia-340_340.102-ext73-build-v6.tar.xz
 9a1c2038d7325527ad32683320e04a29  nvidia-381_381.22-ext73-build-v2.tar.xz
 088940776526d6c8e43139d141e54157  nvidia-381_381.09-ext73-build-v1.tar.xz
 6935c0620dfcdd2a5535e876b936f4df  nvidia-375_375.39-ext73-build-v4.tar.xz
-2378e93fee37a345d2a054589bdd0972  nvidia-optimus.tar.xz
+b144b9a3b245022e0355eaa7efc0cddb  nvidia-optimus.tar.xz
 a2e1568e6115052e2f7372cacd7f1fa4  nvidia-378_378.13-ext73-build-v4.tar.xz
