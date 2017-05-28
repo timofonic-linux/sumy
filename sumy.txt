@@ -69,8 +69,6 @@ f76c21dd3d48785ed9058e8732003bb6  linux-image-4.10.14-ext73-50.14-amdstandard_am
 31b2cfd08d1f4e435daadb2704a97863  linux-image-4.9.13-ext73-49.13-amdstandard_amd64.deb
 9a82a8702c05ed8564adb679fe9712a7  linux-headers-4.9.13-ext73-49.13-amdstandard_amd64.deb
 bea74a5babc856a7a0f386f06990d321  plataro.tar.xz
-c84c9d7002ef848635fadc6e84e437cf  nvidia-340_340.102-ext73-build-v6.tar.xz
 df106ad9dedf630296e5d0d1c97f6167  nvidia-381_381.22-ext73-build-v2.tar.xz
-6935c0620dfcdd2a5535e876b936f4df  nvidia-375_375.39-ext73-build-v4.tar.xz
+959ee14ed8edc533eea95518602d3eee  nvidia-375_375.66-ext73-build-v5.tar.xz
 b144b9a3b245022e0355eaa7efc0cddb  nvidia-optimus.tar.xz
-a2e1568e6115052e2f7372cacd7f1fa4  nvidia-378_378.13-ext73-build-v4.tar.xz
